@@ -1,0 +1,44 @@
+body{
+    margin:0%;
+    text-align: center;
+    font-family: sans-serif,verdana;
+    font-size: larger;
+ background-color: #E4F9F5;
+}
+.top-container{
+
+   
+    position:relative;
+    margin: 0,auto0,auto;
+    padding-top: 100px;
+}
+.middle-container{
+
+    
+}
+.bottom-container{
+    
+}
+.skills{
+    margin:0 auto 0 auto;
+}
+.raj{
+width: 200px;
+height: 200px;
+
+.top-cloud{
+    position:absolute;
+    top: 50px;
+    right: 300px;
+}
+.bottom-cloud{
+    position: absolute;
+    left:300px;
+    bottom: 300px;
+}
+h1{
+    color: #66bfbf;
+    font: size 562.5em;
+    margin-top: 0;
+    font-family: 'sacramento',cursive;
+}
